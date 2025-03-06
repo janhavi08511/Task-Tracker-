@@ -1,28 +1,4 @@
-/*public class Oop2 {
-    
-    public static void main(String[] args) {
-        
-    }
-    public void displayMenu() {
-        System.out.println("Task List Application");
-        System.out.println("1. Add Task");
-        System.out.println("2. Remove Task");
-        System.out.println("3. List Tasks");
-        System.out.println("4. Quit");
-        System.out.print("Select an option: ");
-    }
-    class tasks
-     {
-        public void addTask(String[] name) {
-           int i=0;
-            while(true)
-            {
-               name[i]=
-            }
-            System.out.println("Task added.");
-        }
-     }
-}*/
+
 import java.util.Scanner;
 
 public class Oop2 {
